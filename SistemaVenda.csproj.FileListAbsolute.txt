@@ -1,0 +1,11 @@
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\bin\Debug\SistemaVenda.exe.config
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\bin\Debug\SistemaVenda.exe
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\bin\Debug\SistemaVenda.pdb
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.csproj.AssemblyReference.cache
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.frmAdminPain.resources
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.Properties.Resources.resources
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.csproj.GenerateResource.cache
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.csproj.CoreCompileInputs.cache
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.exe
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.pdb
+C:\Sistema_Cs\SistemaVenda\SistemaVenda\obj\Debug\SistemaVenda.frmUsuarioPainel.resources
